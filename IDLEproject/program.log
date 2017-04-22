@@ -1,0 +1,17 @@
+read:idleconfig.py
+f:
+
+print("It works",input("testing"))
+print("thank you")
+
+
+print()
+
+
+
+print("It works",input("testing"))
+print("thank you")
+
+
+print()
+
